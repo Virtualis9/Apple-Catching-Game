@@ -75,7 +75,7 @@ class GameScene extends Phaser.Scene {
     return Math.floor(Math.random() * 480);
   }
 
-gameOver(){
+  gameOver(){
     console.log("Game Over 😊")
   }
 
